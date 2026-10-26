@@ -1,0 +1,11 @@
+{
+  "name": "evgenii-tools",
+  "owner": { "name": "Evgenii Selin" },
+  "plugins": [
+    {
+      "name": "code-quality",
+      "source": "./",
+      "description": "Review and test-writing workflow for Express APIs"
+    }
+  ]
+}
